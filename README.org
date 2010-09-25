@@ -1,0 +1,10 @@
+* uwh.common libraries
+Clojure utilities that I wrote while pursuing various other projects. Currently contains
+- string manipulation
+- jline wrapper library
+- and other stuff
+
+Please enjoy.
+
+* License
+Apache License version 2.0
